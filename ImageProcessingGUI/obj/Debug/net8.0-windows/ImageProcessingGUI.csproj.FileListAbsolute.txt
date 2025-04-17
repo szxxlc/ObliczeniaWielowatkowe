@@ -1,0 +1,16 @@
+C:\Users\pauli\Desktop\szkolne\sem_6\platformy_programistyczne dotnet_i_java\lab3\ImageProcessingGUI\obj\Debug\net8.0-windows\ImageProcessingGUI.Form1.resources
+C:\Users\pauli\Desktop\szkolne\sem_6\platformy_programistyczne dotnet_i_java\lab3\ImageProcessingGUI\obj\Debug\net8.0-windows\ImageProcessingGUI.csproj.GenerateResource.cache
+C:\Users\pauli\Desktop\szkolne\sem_6\platformy_programistyczne dotnet_i_java\lab3\ImageProcessingGUI\obj\Debug\net8.0-windows\ImageProcessingGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\Desktop\szkolne\sem_6\platformy_programistyczne dotnet_i_java\lab3\ImageProcessingGUI\obj\Debug\net8.0-windows\ImageProcessingGUI.AssemblyInfoInputs.cache
+C:\Users\pauli\Desktop\szkolne\sem_6\platformy_programistyczne dotnet_i_java\lab3\ImageProcessingGUI\obj\Debug\net8.0-windows\ImageProcessingGUI.AssemblyInfo.cs
+C:\Users\pauli\Desktop\szkolne\sem_6\platformy_programistyczne dotnet_i_java\lab3\ImageProcessingGUI\obj\Debug\net8.0-windows\ImageProcessingGUI.csproj.CoreCompileInputs.cache
+C:\Users\pauli\Desktop\szkolne\sem_6\platformy_programistyczne dotnet_i_java\lab3\ImageProcessingGUI\bin\Debug\net8.0-windows\ImageProcessingGUI.exe
+C:\Users\pauli\Desktop\szkolne\sem_6\platformy_programistyczne dotnet_i_java\lab3\ImageProcessingGUI\bin\Debug\net8.0-windows\ImageProcessingGUI.deps.json
+C:\Users\pauli\Desktop\szkolne\sem_6\platformy_programistyczne dotnet_i_java\lab3\ImageProcessingGUI\bin\Debug\net8.0-windows\ImageProcessingGUI.runtimeconfig.json
+C:\Users\pauli\Desktop\szkolne\sem_6\platformy_programistyczne dotnet_i_java\lab3\ImageProcessingGUI\bin\Debug\net8.0-windows\ImageProcessingGUI.dll
+C:\Users\pauli\Desktop\szkolne\sem_6\platformy_programistyczne dotnet_i_java\lab3\ImageProcessingGUI\bin\Debug\net8.0-windows\ImageProcessingGUI.pdb
+C:\Users\pauli\Desktop\szkolne\sem_6\platformy_programistyczne dotnet_i_java\lab3\ImageProcessingGUI\obj\Debug\net8.0-windows\ImageProcessingGUI.dll
+C:\Users\pauli\Desktop\szkolne\sem_6\platformy_programistyczne dotnet_i_java\lab3\ImageProcessingGUI\obj\Debug\net8.0-windows\refint\ImageProcessingGUI.dll
+C:\Users\pauli\Desktop\szkolne\sem_6\platformy_programistyczne dotnet_i_java\lab3\ImageProcessingGUI\obj\Debug\net8.0-windows\ImageProcessingGUI.pdb
+C:\Users\pauli\Desktop\szkolne\sem_6\platformy_programistyczne dotnet_i_java\lab3\ImageProcessingGUI\obj\Debug\net8.0-windows\ImageProcessingGUI.genruntimeconfig.cache
+C:\Users\pauli\Desktop\szkolne\sem_6\platformy_programistyczne dotnet_i_java\lab3\ImageProcessingGUI\obj\Debug\net8.0-windows\ref\ImageProcessingGUI.dll

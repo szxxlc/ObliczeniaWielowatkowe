@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObliczeniaWielowatkowe", "ObliczeniaWielowatkowe.csproj", "{8A1E8A8D-E9D1-4635-A221-8983357C415F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageProcessingGUI", "..\ImageProcessingGUI\ImageProcessingGUI.csproj", "{3FA93238-E01F-436B-A84B-8462AF52677D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A1E8A8D-E9D1-4635-A221-8983357C415F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A1E8A8D-E9D1-4635-A221-8983357C415F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A1E8A8D-E9D1-4635-A221-8983357C415F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A1E8A8D-E9D1-4635-A221-8983357C415F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FA93238-E01F-436B-A84B-8462AF52677D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FA93238-E01F-436B-A84B-8462AF52677D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FA93238-E01F-436B-A84B-8462AF52677D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FA93238-E01F-436B-A84B-8462AF52677D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74525419-61B6-4622-8F65-58E7A8CCF7ED}
+	EndGlobalSection
+EndGlobal
